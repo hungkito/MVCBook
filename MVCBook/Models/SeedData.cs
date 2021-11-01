@@ -26,54 +26,54 @@ namespace MVCBook.Models
                     new Book
                     {
                         Title = "When Harry Met Sally",
-                        Name = "Romantic Comedy",
+                        Name = "Đắc Nhân Tâm",
                         Price = 7.99M,
-                        Author = "Đông",
+                        Author = "Dale Carnegie",
                         Category = "Vũ Trụ",
                         Img = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png"
                     },
                     new Book
                     {
                         Title = "When Harry Met Sally",
-                        Name = "Romantic Comedy",
+                        Name = "Đắc Nhân Tâm",
                         Price = 7.99M,
-                        Author = "Đông",
+                        Author = "Dale Carnegie",
                         Category = "Vũ Trụ",
                         Img = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png"
                     },
                     new Book
                     {
                         Title = "When Harry Met Sally",
-                        Name = "Romantic Comedy",
+                        Name = "Đắc Nhân Tâm",
                         Price = 7.99M,
-                        Author = "Đông",
+                        Author = "Dale Carnegie",
                         Category = "Vũ Trụ",
                         Img = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png"
                     },
                     new Book
                     {
                         Title = "When Harry Met Sally",
-                        Name = "Romantic Comedy",
+                        Name = "Đắc Nhân Tâm",
                         Price = 7.99M,
-                        Author = "Đông",
+                        Author = "Dale Carnegie",
                         Category = "Khoa Học",
                         Img = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png"
                     },
                     new Book
                     {
                         Title = " Sally",
-                        Name = "Romantic Comedy",
+                        Name = "Đắc Nhân Tâm",
                         Price = 7.99M,
-                        Author = "Đông",
+                        Author = "Dale Carnegie",
                         Category = "Vũ Trụ",
                         Img = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png"
                     },
                     new Book
                     {
                         Title = "When Harry Met Sally",
-                        Name = "Romantic Comedy",
+                        Name = "Đắc Nhân Tâm",
                         Price = 7.99M,
-                        Author = "Đông",
+                        Author = "Dale Carnegie",
                         Category = "Điện Ảnh",
                         Img = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Book.svg/1200px-Book.svg.png"
                     }

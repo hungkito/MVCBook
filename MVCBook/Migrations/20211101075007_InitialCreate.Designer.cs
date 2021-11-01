@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MVCBook.Migrations
 {
     [DbContext(typeof(MVCBookContext))]
-    [Migration("20211029073030_InitialCreate")]
+    [Migration("20211101075007_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
